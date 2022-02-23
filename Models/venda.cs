@@ -7,8 +7,6 @@ public class venda{
     [ForeignKey("id_veiculo")]
 
     public int fk_proprietario { get; set; }
-
-    //w
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     
 }
