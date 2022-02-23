@@ -8,5 +8,7 @@ public class venda{
 
     public int fk_proprietario { get; set; }
 
+    //w
+
     
 }
